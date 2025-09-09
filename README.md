@@ -7,4 +7,4 @@ This folder contains R scripts for visualizing omics datasets. The scripts cover
 - UpSet Plots: Visualizes overlaps between multiple DEG sets or gene groups
 - Annotated Heatmaps: Adds metadata or pathway information to heatmaps to better interpret DEGs or metabolites in the context of pathways
 
-The plots are generated using ggplot2, ComplexHeatmap, and other widely-used R visualization packages
+The plots are generated using ggplot2, ComplexHeatmap, and other widely used R visualization packages
